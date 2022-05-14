@@ -1,0 +1,12 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+canvas{
+    box-shadow: 20px 10px 50px #000;
+}
